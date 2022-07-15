@@ -1,0 +1,6 @@
+com\onroadvehilclebreakdownassistance\Dao\AdminClass.class
+com\onroadvehilclebreakdownassistance\Dao\AdminService.class
+com\onroadvehilclebreakdownassistance\Model\AdminModel.class
+com\onroadvehilclebreakdownassistance\OnroadvechicleApplication.class
+com\onroadvehilclebreakdownassistance\Controller\AdminController.class
+com\onroadvehilclebreakdownassistance\repo\RepoInterfaceAdmin.class
